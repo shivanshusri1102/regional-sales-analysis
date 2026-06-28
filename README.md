@@ -1,4 +1,4 @@
-# regional_sales_analysis
+# Regional Sales Analysis
 
 # Data Analytics in Sales Domain
 
